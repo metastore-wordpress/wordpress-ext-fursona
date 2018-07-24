@@ -19,7 +19,7 @@
 
 /**
  * Loading `WP_EXT_Fursona`.
- * ------------------------------------------------------------------------------------------------------------------ */
+ */
 
 function run_wp_ext_fursona() {
 	require_once( plugin_dir_path( __FILE__ ) . 'includes/WP_EXT_Fursona.class.php' );
